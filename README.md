@@ -16,18 +16,6 @@ The objective was to **communicate an evidence-based story** highlighting crash 
 
 ---
 
----
-
-## 🚀 How to Use  
-
-### 1. Open the Tableau Storyboard  
-- Open `Road_Crash_Storyboard.twbx` in Tableau Desktop to explore the interactive dashboards and narrative flow.  
-
-### 2. Watch the Presentation  
-- Play `Road_Crash_Presentation.mp4` for a walkthrough of the analysis, storytelling structure, and design rationale.  
-
----
-
 ## 📈 Key Analytical Features  
 - **Exploratory Visualisations** – Breakdown of crash data by time, location, crash type, and demographics.  
 - **Storyboarding Structure** – Cohesive narrative linking dashboards for smooth insight delivery.  
